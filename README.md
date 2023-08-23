@@ -17,4 +17,4 @@ To understand better what the functionality offers, have a look at the following
 
 https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/example_overpass.py#L1-L42
 
-![](/bbm92_cw/example/figures/example_overpass.pdf)
+![](https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/figures/example_overpass.pdf)
