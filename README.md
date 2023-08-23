@@ -28,4 +28,4 @@ Resulting in the following instantaneous key generation rate, which integrates t
 ## Instantaneous figures
 Here we illustrate all interesting values that can be extracted from the calculation
 
-https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/example_figures.py#L31-L44
+https://github.com/Thomas-Jaeken/BBM92_CW/blob/f0b9f06dabc51a2d63a1b51fb51689080ad01214/bbm92_cw/example/example_figures.py#L31-L43
