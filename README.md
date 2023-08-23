@@ -16,9 +16,7 @@ You can now use the module like you would any other python package.
 To understand better what the functionality offers, have a look at the following example:
 
 https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/example_overpass.py#L1-L42
-<img src="[markdownmonstericon.png](https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/figures/example_overpass.pdf)"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
+ ## Resulting in the following instantaneous key generation rate, which integrates to 27.6 kbit.
 ![image](https://github.com/Thomas-Jaeken/BBM92_CW/assets/79711833/013b80b2-9176-4e03-800e-068bb4c142d1)
 
