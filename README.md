@@ -19,3 +19,6 @@ https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3
 <img src="[markdownmonstericon.png](https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/figures/example_overpass.pdf)"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+![image](https://github.com/Thomas-Jaeken/BBM92_CW/assets/79711833/013b80b2-9176-4e03-800e-068bb4c142d1)
+
