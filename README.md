@@ -8,7 +8,7 @@ The package is meant to calculate the optimal brightness, coincidence window and
 
 # Installation
 ```
-pip install BBM92_CW
+pip install $PATH/dist/bbm92_cw-0.0.1-py3-none-any.whl
 ```
 
 # Example

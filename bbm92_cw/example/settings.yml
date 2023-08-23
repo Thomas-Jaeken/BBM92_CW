@@ -1,0 +1,17 @@
+# settings.yml
+d : 2  
+jitters :  # OGS first, then SAT, in seconds
+  - 40.0e-12
+  - 40.0e-12
+  - 460.0e-12
+  - 460.0e-12
+darkcounts_OGS : 100  #cps
+darkcounts_SAT : 100  #cps
+dead_times :  # OGS first, then SAT, in seconds
+  - 25.0e-9
+  - 25.0e-9
+  - 41.9e-9
+  - 41.9e-9 
+bit_error : 0.013  
+phase_error : 0.016  
+f : 1.2  # error correction efficiency
