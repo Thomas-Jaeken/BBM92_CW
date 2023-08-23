@@ -1,5 +1,6 @@
 # BBM92_CW
-This project is an implementation of the model laid out in [Neumann et al.](https://link.aps.org/doi/10.1103/PhysRevA.104.022406)
+This project is an implementation of the model laid out in [[1]](#1).
+
 The model treats a Continuous Wave (CW) source of photon pairs that are perfectly correlated in time, 
 and formalises what the expected asymptotic secure key rate (AKR) is if you use them to perform passive BBM92.
 
@@ -28,3 +29,9 @@ Resulting in the following instantaneous key generation rate, which integrates t
 Here we illustrate all interesting values that can be extracted from the calculation
 
 https://github.com/Thomas-Jaeken/BBM92_CW/blob/f0b9f06dabc51a2d63a1b51fb51689080ad01214/bbm92_cw/example/example_figures.py#L31-L43
+
+## References
+<a id="1">[1]</a> 
+Neumann et al. (2021). 
+Phys. Rev. A 104, 022406
+[10.1103/PhysRevA.104.022406](https://link.aps.org/doi/10.1103/PhysRevA.104.022406)
