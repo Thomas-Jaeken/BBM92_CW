@@ -22,7 +22,7 @@ https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3
 
 Resulting in the following instantaneous key generation rate, which integrates to 27.6 kbit.
 
-![image](https://github.com/Thomas-Jaeken/BBM92_CW/assets/79711833/013b80b2-9176-4e03-800e-068bb4c142d1)
+![image](https://github.com/Thomas-Jaeken/BBM92_CW/blob/0c4e2c0795cc8039ef8f2fad56d3dcdfef53e8bf/bbm92_cw/example/figures/example_overpass.pdf)
 
 ## Instantaneous figures
 Here we illustrate all interesting values that can be extracted from the calculation
