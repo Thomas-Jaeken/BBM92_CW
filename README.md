@@ -8,7 +8,7 @@ The package is meant to calculate the optimal brightness, coincidence window and
 
 # Installation
 ```
-pip install $PATH/dist/bbm92_cw-0.0.1-py3-none-any.whl
+pip install bbm92_cw
 ```
 
 # Examples
@@ -20,9 +20,11 @@ In an overpass, we assume a constant loss of 20 dB on the terrestrial arm, and a
 
 https://github.com/Thomas-Jaeken/BBM92_CW/blob/4760e5c2bc902244f3baf6900378bd0f3ad4bebf/bbm92_cw/example/example_overpass.py#L1-L42
 
- ### Resulting in the following instantaneous key generation rate, which integrates to 27.6 kbit.
+Resulting in the following instantaneous key generation rate, which integrates to 27.6 kbit.
+<!---
 ![image](https://github.com/Thomas-Jaeken/BBM92_CW/assets/79711833/013b80b2-9176-4e03-800e-068bb4c142d1)
-
+-->
+![](https://github.com/Thomas-Jaeken/BBM92_CW/raw/ce37278f7dc75f8fec2817fe618f0c871c7ac387/bbm92_cw/example/figures/example_overpass.pdf)
 ## Instantaneous figures
 Here we illustrate all interesting values that can be extracted from the calculation
 

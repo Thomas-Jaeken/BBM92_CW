@@ -3,7 +3,7 @@ from scipy.optimize import minimize
 from math import erf
 
 
-class secure_key_rates:
+class SKR:
     def __init__(
         self,
         name,

@@ -8,14 +8,14 @@ authors = [
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: Apache License",
+  "License :: OSI Approved :: Apache Software License",
   "Operating System :: OS Independent",
 ]
 description = "Python package that allows to model the expected keyrates in a BBM92 protocol based on SPDC pumped with a CW laser."
 name = "bbm92_cw"
 readme = "README.md"
 requires-python = ">=3.7"
-version = "0.0.1"
+version = "0.0.2"
 
 [project.urls]
 "Bug Tracker" = "https://github.com/Thomas-Jaeken/BBM92_CW/issues"

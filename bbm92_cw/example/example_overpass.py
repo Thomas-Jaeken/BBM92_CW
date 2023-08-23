@@ -1,4 +1,4 @@
-from bbm92_cw.secure_key_rates import secure_key_rates
+from bbm92_cw.SKR import SKR
 import numpy as np
 import yaml
 
